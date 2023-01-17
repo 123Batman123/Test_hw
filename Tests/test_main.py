@@ -1,7 +1,7 @@
 import unittest
-
-
 from main import max_value, set_list, filter_country, create_folder_ya_disk
+
+
 stats = {'facebook': 55, 'yandex': 120, 'vk': 115, 'google': 99, 'email': 42, 'ok': 98}
 
 
